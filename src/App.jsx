@@ -3,10 +3,7 @@ import React from 'react';
 import './App.css';
 import AboutSection from './components/AboutSection';
 import MagangSection from './components/MagangSection';
-import ProjectSection from './components/PorjectSection';
-import ProjectWebsiteSection from './components/PorjectWebsiteSection';
 import ExperienceSection from './components/ExperienceSection';
-
 import HeroSection from './components/HeroSection';
 import SkillsSection from './components/SkillsSection';
 function App() {

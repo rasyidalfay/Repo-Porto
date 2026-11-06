@@ -10,8 +10,6 @@ import nxu1 from '../../assets/kurator-1.jpeg';
 import nxu2 from '../../assets/kurator-3.jpeg';
 import nxu3 from '../../assets/kurator-2.jpeg';
 import nxu4 from '../../assets/kurator-4.png';
-import nxu5 from '../../assets/nxu-5.jpg';
-import nxu6 from '../../assets/nxu-6.jpg';
 import hsk1 from '../../assets/konservator-1.jpeg';
 import hsk2 from '../../assets/konservator-2.jpeg';
 import hsk3 from '../../assets/konservator-3.jpeg';

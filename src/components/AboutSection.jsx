@@ -6,11 +6,6 @@ import esaUnggul2 from '../../assets/transkrip1.jpg';
 import transkrip2 from '../../assets/transkrip2.jpg';
 import fotogedungsma from '../../assets/fotogedungsma1.jpg';
 import nxu1 from '../../assets/transkripsma.jpg';
-import nxu2 from '../../assets/nxu-2.jpg';
-import nxu3 from '../../assets/nxu-3.jpg';
-import nxu4 from '../../assets/nxu-4.jpg';
-import nxu5 from '../../assets/nxu-5.jpg';
-import nxu6 from '../../assets/nxu-6.jpg';
 import hsk1 from '../../assets/sertif1.jpg';
 import sertif2 from '../../assets/sertif2.jpg';
 import sertif3 from '../../assets/sertif3.jpg';
@@ -53,6 +48,7 @@ const AboutSection = () => {
     china: {
       paragraphs: [
         "Social Science, 2019-2022, graduated with score 76.18",
+
         "Focused on social studies, civic education, and analytical writing. Developed strong teamwork and communication skills through group projects and presentations."
       ]
     },
