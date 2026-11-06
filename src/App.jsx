@@ -9,7 +9,6 @@ import ExperienceSection from './components/ExperienceSection';
 
 import HeroSection from './components/HeroSection';
 import SkillsSection from './components/SkillsSection';
-import heroBackground from '../assets/hero-1.png';
 function App() {
   return (
     <div className="app">
